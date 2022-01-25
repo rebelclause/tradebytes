@@ -1,4 +1,4 @@
-#tradebytes
+<a id="tradebytes" name="tradebytes"></a>
 ![alt text](assets/logoish.png "Sort of a logo...")
 
 For your appreciation:
@@ -29,5 +29,5 @@ Scavenged parts from past semi-automated cryptocurrency exchange trading platfor
 
 <!-- markdown code between the link & anchor-tag -->
 
-<a id="tradebytes"></a>
+
 
