@@ -1,11 +1,15 @@
-# tradebyes
-
-
+![alt text](assets/logoish.png "Sort of a logo...")
 
 For your appreciation:
 btc: 3FpFNHEnPuDfSuzjHiHFgNQiB1rBWxm8WB
 
-# Acknowledgements
+
+### about tradebytes
+
+Scavenged parts from past semi-automated cryptocurrency exchange trading platform projects.
+
+
+### acknowledgements
 
 [enter_exit_async_queue.py](https://github.com/rebelclause/tradebytes/blob/main/enter_exit_async_queue.py) benefitted from use of the following Python-worthy resource:
 
