@@ -1,3 +1,4 @@
+#tradebytes
 ![alt text](assets/logoish.png "Sort of a logo...")
 
 For your appreciation:
