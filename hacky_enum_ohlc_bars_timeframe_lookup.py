@@ -11,7 +11,7 @@ print(reverse)
 
 new = []
 for k, v in valid_frames.items():
-    print(f"{v} = {v:d}, {v/3600:.0f}, '{k}'") 
+    print(f"i{v} = {v:d}, {v/3600:.0f}, '{k}'") 
 print(new) # find its slightly altered output beneath the Enum declaration
 
 # Please Note: There are better ways to do this, but Enums are standard fare
@@ -70,4 +70,5 @@ class vframes(Enum):
 print(vframes.i60)
 print(int(vframes.i300))
 print(int(float(vframes.i3600))) # kinda out there, syntactially speaking...
+print(f"{int(float(vframes.i3600))}h") # way, way out there...
 print(str(vframes.i300))
